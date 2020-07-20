@@ -1,0 +1,166 @@
+<LogEntry Date="2019-10-16 09:03:15" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 09:03:15" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 09:03:16" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 09:03:16" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 09:16:24" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 09:16:24" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:25:37" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:37:59" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:37:59" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: An expression of non-boolean type specified in a context where a condition is expected, near 'mo'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:38:00" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:38:00" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: An expression of non-boolean type specified in a context where a condition is expected, near 'mo'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:38:01" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:38:01" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: An expression of non-boolean type specified in a context where a condition is expected, near 'mo'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:38:01" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:38:01" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: An expression of non-boolean type specified in a context where a condition is expected, near 'mo'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 10:40:52" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 11:49:32" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 11:49:32" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: No se puede convertir un objeto de tipo 'System.Windows.Forms.DateTimePicker' al tipo 'System.String'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 11:49:34" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 11:49:34" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: No se puede convertir un objeto de tipo 'System.Windows.Forms.DateTimePicker' al tipo 'System.String'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:12:13" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:12:13" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: No se puede implementar el método o la operación. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:12:14" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:12:15" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:12:25" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:12:25" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:12:26" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:14:20" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:14:20" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Subproceso anulado. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:18:20" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:18:20" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:18:26" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:18:26" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:19:51" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:19:51" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:23:05" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 15:23:05" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:37" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:37" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:37" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:37" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:38" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:38" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:38" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:38" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:39" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:39" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: An error occurred while updating the entries. See the inner exception for details. Inner Exception Mensaje: The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:39" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:39" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: An error occurred while updating the entries. See the inner exception for details. Inner Exception Mensaje: The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:40" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:40" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: An error occurred while updating the entries. See the inner exception for details. Inner Exception Mensaje: The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:40" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-16 16:21:40" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: An error occurred while updating the entries. See the inner exception for details. Inner Exception Mensaje: An error occurred while updating the entries. See the inner exception for details.</Message>
+</LogEntry>

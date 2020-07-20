@@ -1,0 +1,119 @@
+<LogEntry Date="2019-10-18 11:42:52" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 11:42:52" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: El valor no puede ser nulo.
+Nombre del parámetro: type Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 11:56:28" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:48:48" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:48:48" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: El valor no puede ser nulo.
+Nombre del parámetro: type Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:48:49" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:48:49" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: El valor no puede ser nulo.
+Nombre del parámetro: type Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:49:03" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:49:03" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: El valor no puede ser nulo.
+Nombre del parámetro: type Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:49:04" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:49:20" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:49:20" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: El valor no puede ser nulo.
+Nombre del parámetro: type Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:49:20" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:57:17" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:57:17" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: El valor no puede ser nulo.
+Nombre del parámetro: type Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 14:57:18" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:01:25" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:01:25" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Cannot open database "RentCar2" requested by the login. The login failed.
+Login failed for user 'SEE\wilmer.ramirez'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:01:26" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:01:26" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Cannot open database "RentCar2" requested by the login. The login failed.
+Login failed for user 'SEE\wilmer.ramirez'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:01:26" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:01:26" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Cannot open database "RentCar2" requested by the login. The login failed.
+Login failed for user 'SEE\wilmer.ramirez'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:03:25" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="6">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:03:25" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="6">
+  <Message>Mensaje: Cannot open database "RentCar" requested by the login. The login failed.
+Login failed for user 'SEE\wilmer.ramirez'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:03:26" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="6">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:03:26" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="6">
+  <Message>Mensaje: Cannot open database "RentCar" requested by the login. The login failed.
+Login failed for user 'SEE\wilmer.ramirez'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:03:26" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="6">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:03:26" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="6">
+  <Message>Mensaje: Cannot open database "RentCar" requested by the login. The login failed.
+Login failed for user 'SEE\wilmer.ramirez'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:03:26" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="6">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:03:26" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="6">
+  <Message>Mensaje: Cannot open database "RentCar" requested by the login. The login failed.
+Login failed for user 'SEE\wilmer.ramirez'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:03:30" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="6">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:16:21" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:17:09" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:17:09" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: El valor no puede ser nulo.
+Nombre del parámetro: type Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-18 16:17:10" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>

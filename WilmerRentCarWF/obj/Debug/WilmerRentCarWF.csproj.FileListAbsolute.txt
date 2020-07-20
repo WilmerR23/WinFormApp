@@ -1,0 +1,23 @@
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\bin\Debug\WilmerRentCarWF.exe.config
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\bin\Debug\WilmerRentCarWF.exe
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\bin\Debug\WilmerRentCarWF.pdb
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.csprojAssemblyReference.cache
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.Home.resources
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.Properties.Resources.resources
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.csproj.GenerateResource.cache
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.csproj.CoreCompileInputs.cache
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.exe
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.pdb
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.TipoVehiculoUC.resources
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\bin\Debug\WilmerRentCarWF.exe.config
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\bin\Debug\WilmerRentCarWF.exe
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\bin\Debug\WilmerRentCarWF.pdb
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.csprojAssemblyReference.cache
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.Home.resources
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.Marca.resources
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.Properties.Resources.resources
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.TipoVehiculoUC.resources
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.csproj.GenerateResource.cache
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.csproj.CoreCompileInputs.cache
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.exe
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCarWF\obj\Debug\WilmerRentCarWF.pdb

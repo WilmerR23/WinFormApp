@@ -1,0 +1,186 @@
+<LogEntry Date="2019-10-15 11:19:34" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:19:34" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: The model backing the 'RentCarDbContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269). Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:19:35" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:19:35" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: The model backing the 'RentCarDbContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269). Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:19:35" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:46:56" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:46:56" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: 
+Unmapped members were found. Review the types and members below.
+Add a custom mapping expression, ignore, add a custom resolver, or modify the source/destination type
+For no matching constructor, add a no-arg ctor, add optional arguments, or map all of the constructor parameters
+===============================================================
+AutoMapper created this type map for you, but your types cannot be mapped using the current configuration.
+UsuarioDto -&gt; Usuario (Destination member list)
+WilmerRentCar.BOL.Dtos.UsuarioDto -&gt; WilmerRentCar.BOL.Usuario (Destination member list)
+
+Unmapped properties:
+Empleado
+ Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:46:57" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:46:57" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: 
+Unmapped members were found. Review the types and members below.
+Add a custom mapping expression, ignore, add a custom resolver, or modify the source/destination type
+For no matching constructor, add a no-arg ctor, add optional arguments, or map all of the constructor parameters
+===============================================================
+AutoMapper created this type map for you, but your types cannot be mapped using the current configuration.
+UsuarioDto -&gt; Usuario (Destination member list)
+WilmerRentCar.BOL.Dtos.UsuarioDto -&gt; WilmerRentCar.BOL.Usuario (Destination member list)
+
+Unmapped properties:
+Empleado
+ Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:46:58" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:46:58" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: 
+Unmapped members were found. Review the types and members below.
+Add a custom mapping expression, ignore, add a custom resolver, or modify the source/destination type
+For no matching constructor, add a no-arg ctor, add optional arguments, or map all of the constructor parameters
+===============================================================
+AutoMapper created this type map for you, but your types cannot be mapped using the current configuration.
+UsuarioDto -&gt; Usuario (Destination member list)
+WilmerRentCar.BOL.Dtos.UsuarioDto -&gt; WilmerRentCar.BOL.Usuario (Destination member list)
+
+Unmapped properties:
+Empleado
+ Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:46:58" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 11:46:58" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: 
+Unmapped members were found. Review the types and members below.
+Add a custom mapping expression, ignore, add a custom resolver, or modify the source/destination type
+For no matching constructor, add a no-arg ctor, add optional arguments, or map all of the constructor parameters
+===============================================================
+AutoMapper created this type map for you, but your types cannot be mapped using the current configuration.
+UsuarioDto -&gt; Usuario (Destination member list)
+WilmerRentCar.BOL.Dtos.UsuarioDto -&gt; WilmerRentCar.BOL.Usuario (Destination member list)
+
+Unmapped properties:
+Empleado
+ Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 13:19:44" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="11">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 13:19:44" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="11">
+  <Message>Mensaje: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_dbo.Inspección_dbo.Empleadoes_EmpleadoId". The conflict occurred in database "RentCar", table "dbo.Empleadoes", column 'Id'.
+The statement has been terminated. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:24:30" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="4">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:24:30" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="4">
+  <Message>Mensaje: Subproceso anulado. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:24:31" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="4">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:24:31" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="4">
+  <Message>Mensaje: Subproceso anulado. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:42" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:42" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Mensaje: An exception 'Microsoft.VisualStudio.Debugger.Runtime.CrossThreadMessagingException' occurred Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:43" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:43" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Mensaje: An exception 'Microsoft.VisualStudio.Debugger.Runtime.CrossThreadMessagingException' occurred Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:43" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:43" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Mensaje: An exception 'Microsoft.VisualStudio.Debugger.Runtime.CrossThreadMessagingException' occurred Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:44" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:44" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Mensaje: An exception 'Microsoft.VisualStudio.Debugger.Runtime.CrossThreadMessagingException' occurred Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:44" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:44" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Mensaje: An exception 'Microsoft.VisualStudio.Debugger.Runtime.CrossThreadMessagingException' occurred Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:45" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 14:54:45" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="2">
+  <Message>Mensaje: An exception 'Microsoft.VisualStudio.Debugger.Runtime.CrossThreadMessagingException' occurred Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:42:38" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:42:38" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: A second operation started on this context before a previous asynchronous operation completed. Use 'await' to ensure that any asynchronous operations have completed before calling another method on this context. Any instance members are not guaranteed to be thread safe. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:42:49" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:42:49" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: A second operation started on this context before a previous asynchronous operation completed. Use 'await' to ensure that any asynchronous operations have completed before calling another method on this context. Any instance members are not guaranteed to be thread safe. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:42:55" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:42:55" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: A second operation started on this context before a previous asynchronous operation completed. Use 'await' to ensure that any asynchronous operations have completed before calling another method on this context. Any instance members are not guaranteed to be thread safe. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:42:55" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:42:55" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: A second operation started on this context before a previous asynchronous operation completed. Use 'await' to ensure that any asynchronous operations have completed before calling another method on this context. Any instance members are not guaranteed to be thread safe. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:44:04" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:44:04" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: A second operation started on this context before a previous asynchronous operation completed. Use 'await' to ensure that any asynchronous operations have completed before calling another method on this context. Any instance members are not guaranteed to be thread safe. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:44:07" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:44:07" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: A second operation started on this context before a previous asynchronous operation completed. Use 'await' to ensure that any asynchronous operations have completed before calling another method on this context. Any instance members are not guaranteed to be thread safe. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:44:08" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:44:08" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: A second operation started on this context before a previous asynchronous operation completed. Use 'await' to ensure that any asynchronous operations have completed before calling another method on this context. Any instance members are not guaranteed to be thread safe. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:44:08" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-15 15:44:08" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: A second operation started on this context before a previous asynchronous operation completed. Use 'await' to ensure that any asynchronous operations have completed before calling another method on this context. Any instance members are not guaranteed to be thread safe. Inner Exception Mensaje: </Message>
+</LogEntry>

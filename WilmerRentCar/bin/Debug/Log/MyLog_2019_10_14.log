@@ -1,0 +1,159 @@
+<LogEntry Date="2019-10-14 15:31:19" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:31:19" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Se ha intentado establecer un parámetro de informe 'ReportParameter1', que no está definido en este informe. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:31:19" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:31:19" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Se ha producido un error durante el procesamiento local de informes. Inner Exception Mensaje: Se ha intentado establecer un parámetro de informe 'ReportParameter1', que no está definido en este informe.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:31:20" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:51:03" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:51:03" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Falta un valor en el parámetro 'FechaIncio' Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:59:26" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:59:26" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:59:27" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:59:27" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:59:28" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:59:28" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:59:28" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:59:28" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 15:59:29" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:47" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:47" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:47" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:47" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:48" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:48" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:48" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:48" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:49" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:22:49" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:23:01" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:23:01" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Incorrect syntax near '.'. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:23:01" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:23:01" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Se produjo una excepción en el destino de la invocación. Inner Exception Mensaje: Incorrect syntax near '.'.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:23:02" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:23:02" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Se produjo una excepción en el destino de la invocación. Inner Exception Mensaje: Incorrect syntax near '.'.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:24:30" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:24:30" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:24:30" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:24:30" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:14" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:14" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: LINQ to Entities does not recognize the method 'System.String generateShaText(System.String)' method, and this method cannot be translated into a store expression. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:14" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:14" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: LINQ to Entities does not recognize the method 'System.String generateShaText(System.String)' method, and this method cannot be translated into a store expression. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:15" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:15" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: LINQ to Entities does not recognize the method 'System.String generateShaText(System.String)' method, and this method cannot be translated into a store expression. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:15" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:15" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: LINQ to Entities does not recognize the method 'System.String generateShaText(System.String)' method, and this method cannot be translated into a store expression. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:15" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:15" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: LINQ to Entities does not recognize the method 'System.String generateShaText(System.String)' method, and this method cannot be translated into a store expression. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:16" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:16" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: LINQ to Entities does not recognize the method 'System.String generateShaText(System.String)' method, and this method cannot be translated into a store expression. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:16" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:16" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: LINQ to Entities does not recognize the method 'System.String generateShaText(System.String)' method, and this method cannot be translated into a store expression. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:17" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:17" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: LINQ to Entities does not recognize the method 'System.String generateShaText(System.String)' method, and this method cannot be translated into a store expression. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-14 16:38:17" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>

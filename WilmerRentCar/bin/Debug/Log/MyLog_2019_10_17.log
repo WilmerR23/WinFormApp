@@ -1,0 +1,72 @@
+<LogEntry Date="2019-10-17 14:26:19" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:04:49" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:04:49" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:09:52" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:09:52" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:21:51" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:49:59" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:50:00" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:50:00" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:50:09" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:49:59" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: No se puede implementar el método o la operación. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:50:00" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Operación no válida dado el estado actual del objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:50:00" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: La operación solicitada no es válida para DynamicMethod. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:50:09" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: No se puede implementar el método o la operación. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:58:07" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:58:07" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:58:08" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 15:58:08" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 16:11:54" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 16:11:54" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 16:12:03" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 16:12:03" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Referencia a objeto no establecida como instancia de un objeto. Inner Exception Mensaje: </Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 16:17:09" Severity="Info" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2019-10-17 16:17:09" Severity="Error" Source="WilmerRentCar.Program.Handler" ThreadId="1">
+  <Message>Mensaje: Operación no válida dado el estado actual del objeto. Inner Exception Mensaje: </Message>
+</LogEntry>

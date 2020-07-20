@@ -1,0 +1,11 @@
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCar.BOL\bin\Debug\WilmerRentCar.BOL.dll
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCar.BOL\bin\Debug\WilmerRentCar.BOL.pdb
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCar.BOL\obj\Debug\WilmerRentCar.BOL.csprojAssemblyReference.cache
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCar.BOL\obj\Debug\WilmerRentCar.BOL.csproj.CoreCompileInputs.cache
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCar.BOL\obj\Debug\WilmerRentCar.BOL.dll
+C:\Users\wilmer.ramirez\source\repos\WilmerRentCar\WilmerRentCar.BOL\obj\Debug\WilmerRentCar.BOL.pdb
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCar.BOL\bin\Debug\WilmerRentCar.BOL.dll
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCar.BOL\bin\Debug\WilmerRentCar.BOL.pdb
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCar.BOL\obj\Debug\WilmerRentCar.BOL.csproj.CoreCompileInputs.cache
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCar.BOL\obj\Debug\WilmerRentCar.BOL.dll
+C:\Users\wilmer.ramirez\Desktop\Apec\5 Cuatrimestre\Propietaria I\WilmerRentCar\WilmerRentCar.BOL\obj\Debug\WilmerRentCar.BOL.pdb
